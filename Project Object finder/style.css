@@ -1,0 +1,12 @@
+.heading
+{
+    font-size:22px;
+    width:100%;
+}
+
+canvas
+{
+    border-radius: 25px;
+    border: 10px solid chocolate;
+    padding:10px;
+}
